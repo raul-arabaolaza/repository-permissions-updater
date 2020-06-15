@@ -1,0 +1,18 @@
+---
+name: "openshift-client"
+github: "jenkinsci/openshift-client-plugin"
+paths:
+- "com/openshift/jenkins/plugins/openshift-client"
+developers:
+- "jupierce"
+- "gmontero"
+- "bparees"
+- "rymurphy"
+- "waveywaves"
+- "akram"
+- "jkhelil"
+security:
+  contacts:
+    jira: "akram"
+    email: prodsec-openshift@redhat.com
+

@@ -1,0 +1,8 @@
+---
+name: "fluentd"
+github: "jenkinsci/fluentd-plugin"
+paths:
+- "org/jenkins-ci/plugins/fluentd"
+developers:
+- "jimilian"
+- "sschuberth"

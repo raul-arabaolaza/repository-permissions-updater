@@ -1,5 +1,6 @@
 ---
 name: "deployit-plugin"
+github: "jenkinsci/xldeploy-plugin"
 paths:
 - "com/xebialabs/deployit/ci/deployit-plugin"
 developers:
@@ -7,3 +8,8 @@ developers:
 - "ravan"
 - "msaraswat"
 - "adityakalia"
+- "kmalhotra"
+- "tmehra"
+- "wlee1668"
+- "aedsonfellipe"
+- "ashish_thakur"

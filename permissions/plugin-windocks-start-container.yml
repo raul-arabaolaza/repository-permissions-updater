@@ -1,7 +1,7 @@
 ---
 name: "windocks-start-container"
+github: "jenkinsci/windocks-start-container-plugin"
 paths:
 - "org/jenkins-ci/plugins/windocks-start-container"
 developers:
-- "windocks-github"
-- "rameshpa"
+- "windocks"
